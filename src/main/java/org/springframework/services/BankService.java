@@ -1,1 +1,1 @@
-package org.springframework.services;import org.springframework.User;public interface BankService {   public void makeService(User user);}
+package org.springframework.services;import org.springframework.Connection;import org.springframework.User;public interface BankService {   public void makeService(int num);}
